@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<a href="https://sourcerer.io/tosunthex" title="code breakdown"><img src="https://sourcerer.io/assets/avatar/tosunthex" width="32"/>C# | .NET Core | Git | Docker | CI/CD</a>
+
 <center>
   <table>
   <tr>
