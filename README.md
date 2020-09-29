@@ -1,6 +1,12 @@
 ### Hi there 👋
+### Levent Saatci 👨‍💻
 
-<a href="https://sourcerer.io/tosunthex" title="code breakdown"><img src="https://sourcerer.io/assets/avatar/tosunthex" width="32"/>C# | .NET Core | Git | Docker | CI/CD</a>
+
+**👨🏻‍💻 Currently working on:** 
+
+<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
 <center>
   <table>
@@ -10,6 +16,7 @@
   </tr>   
 </table>
 </center>
+
 <!--
 **tosunthex/tosunthex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
